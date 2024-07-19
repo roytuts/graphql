@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.roytuts.com/how-to-consume-graphql-crud-api-using-react-and-apollo/
+Please follow the tutorial https://roytuts.com/how-to-consume-graphql-crud-api-using-react-and-apollo/
