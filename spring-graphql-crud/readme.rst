@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.roytuts.com/graphql-spring-mysql-crud-example/
+Please follow the tutorial https://roytuts.com/graphql-spring-mysql-crud-example/
